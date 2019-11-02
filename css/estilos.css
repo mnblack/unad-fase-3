@@ -1,0 +1,168 @@
+body {
+	background: #f2f2f2;
+	font-family: sans-serif;
+}
+
+header {
+	margin-top: 30px;
+}
+
+header .container {
+	border-bottom: 3px solid #107FC6;
+}
+
+header .nav {
+	min-height: 80px;
+	background: #fff;
+}
+
+header logo img {
+	width: 100%;
+}
+
+
+/* estilos del menu */
+
+header .menu {
+	padding: 0;
+}
+
+header .menu a {
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	padding: 0 30px;
+	width: 100%;
+}
+
+header .menu .c-1 { background: #3da5e2; }
+header .menu .c-2 { background: #005385; }
+header .menu .c-3 { background: #003855; }
+header .menu .c-4 { background: #3da5e2; }
+
+header .menu .c-1:hover { background: #1ba0ef; }
+header .menu .c-2:hover { background: #00426a; }
+header .menu .c-3:hover { background: #002d44; }
+header .menu .c-4:hover { background: #1ba0ef; }
+
+main .objetivos {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: white;
+}
+
+main .objetivos h1 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	align-content: center;
+}
+
+main .objetivos h2 {
+	padding-top: 15px;
+	align-content: center;
+}
+
+main .objetivos p {
+	padding-top: 20px;
+}
+
+main .objetivos-esp {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #107FC6;
+}
+
+main .objetivos-esp h3 {
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-size: 21px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+main .objetivos-esp img {
+	width: 25px;
+}
+
+main .obj-esp1 {
+	padding-top: 15px;
+	text-align: center;
+	color: white;
+	background-color: #A700F7;
+}
+main .obj-esp2{
+	padding-top: 15px;
+	text-align: center;
+	color: white;
+	background-color: #107FC6;
+}
+main .obj-esp3 {
+	padding-top: 15px;
+	text-align: center;
+	color: white;
+	text-decoration: blink;
+	background-color: #F2C637;
+}
+
+main .deta-curs {
+	background-color: white;
+}
+
+.deta-curs h3 {
+	padding-top: 30px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	color: #1495CF;
+}
+
+.deta-curs h4 {
+	padding-bottom: 15px;
+	color: #1495CF;
+	font-weight: bold;
+}
+
+.deta-curs p {
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.publicidad img {
+	width: 100%;
+	padding: 12px;
+}
+
+.equipo {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+	background: #D4A402;
+	color: white;
+	font-weight: bold;
+}
+
+.equipo img {
+	width: 100px;
+}
+
+.equipo h3 {
+	padding-bottom: 25px;
+}
+
+.timeline {
+
+}
+
+footer .container {
+	align-content: center;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	background: #3D3D3D;
+	color: white;
+}

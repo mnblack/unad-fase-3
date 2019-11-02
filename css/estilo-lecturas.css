@@ -1,0 +1,48 @@
+
+.lecturas{
+	width: 100%;
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+.lecturas h4 {
+	padding-top: 21px;
+	color: white
+}
+
+.lecturas img {
+	max-width: 500px;
+	width: 100%;
+	padding-bottom: 21px;
+}
+
+.lecturas p, li {
+	text-align: justify;
+	color: white;
+}
+
+.lec-01 {
+	background: #005883;
+	padding: 15px;
+}
+.lec-02 {
+	background: #4cb848;
+	padding: 15px;
+}
+.lec-03 {
+	background: #f1b52d;
+	padding: 15px;
+}
+.lec-04 {
+	background: #f47921;
+	padding: 15px;
+}
+.lec-05 {
+	background: #a54586;
+	padding: 15px;
+}
+.lec-06 {
+	background: #40c7f4;
+	padding: 15px;
+}
